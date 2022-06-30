@@ -6,7 +6,7 @@
                 
         <groupId>cp4admin.ads_demo.getting_started</groupId>
                 
-        <artifactId>gettingStarted</artifactId>
+        <artifactId>getting-Started</artifactId>
                 
         <version>1.0.0-SNAPSHOT</version>
             
@@ -14,7 +14,7 @@
         
     <groupId>decisions.mftraining.getting_started</groupId>
         
-    <artifactId>task5UsingRulePolicy</artifactId>
+    <artifactId>task3AddingNodes</artifactId>
         
     <version>LATEST-SNAPSHOT</version>
         
@@ -48,13 +48,13 @@
                                                 
                         <deployment>
                                                         
-                            <name>Task5-Using-rule-policy</name>
+                            <name>Task3-Adding-nodes</name>
                                                     
                         </deployment>
                                             
                     </deployments>
                                     
-                    <packageName>decisions.mftraining.getting_started.task4usingrulepolicy</packageName>
+                    <packageName>decisions.mftraining.getting_started.task2addingnodes</packageName>
                 </configuration>
                             
             </plugin>

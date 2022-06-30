@@ -6,13 +6,13 @@
                 
         <groupId>cp4admin.ads_demo.getting_started</groupId>
                 
-        <artifactId>gettingStarted</artifactId>
+        <artifactId>getting-Started</artifactId>
                 
         <version>1.0.0-SNAPSHOT</version>
             
     </parent>
         
-    <artifactId>gettingStartedDecisionService</artifactId>
+    <artifactId>getting-StartedDecisionService</artifactId>
         
     <packaging>jar</packaging>
         
@@ -67,6 +67,7 @@
         
 
     
+
 <build>
         <resources>
             <resource>

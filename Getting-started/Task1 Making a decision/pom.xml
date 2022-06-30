@@ -6,15 +6,15 @@
                 
         <groupId>cp4admin.ads_demo.getting_started</groupId>
                 
-        <artifactId>gettingStarted</artifactId>
+        <artifactId>getting-Started</artifactId>
                 
         <version>1.0.0-SNAPSHOT</version>
             
     </parent>
         
-    <groupId>_082392706.gettingstarted.getting_started</groupId>
+    <groupId>decisions.mftraining.getting_started</groupId>
         
-    <artifactId>task2ConnectingAndSharingADecision</artifactId>
+    <artifactId>task1MakingADecision</artifactId>
         
     <version>LATEST-SNAPSHOT</version>
         
@@ -48,13 +48,13 @@
                                                 
                         <deployment>
                                                         
-                            <name>Task2-Connecting-and-sharing-a-decision</name>
+                            <name>task1MakingADecision</name>
                                                     
                         </deployment>
                                             
                     </deployments>
                                     
-                    <packageName>_082392706.gettingstarted.getting_started.task2connectingandsharingadecision</packageName>
+                    <packageName>decisions.mftraining.getting_started.task1makingadecision</packageName>
                 </configuration>
                             
             </plugin>

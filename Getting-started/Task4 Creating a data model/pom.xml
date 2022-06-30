@@ -6,15 +6,15 @@
                 
         <groupId>cp4admin.ads_demo.getting_started</groupId>
                 
-        <artifactId>gettingStarted</artifactId>
+        <artifactId>getting-Started</artifactId>
                 
         <version>1.0.0-SNAPSHOT</version>
             
     </parent>
         
-    <groupId>decision.gettingStarted</groupId>
+    <groupId>decisions.mftraining.getting_started</groupId>
         
-    <artifactId>data</artifactId>
+    <artifactId>task4CreatingADataModel</artifactId>
         
     <version>LATEST-SNAPSHOT</version>
         
@@ -48,13 +48,13 @@
                                                 
                         <deployment>
                                                         
-                            <name>data</name>
+                            <name>Task4-Creating-a-data-model</name>
                                                     
                         </deployment>
                                             
                     </deployments>
                                     
-                    <packageName>decision.gettingStarted.mydata</packageName>
+                    <packageName>decisions.mftraining.getting_started.task3creatingadatamodel</packageName>
                 </configuration>
                             
             </plugin>
@@ -64,6 +64,11 @@
     </build>
     
     <dependencies>
+        <dependency>
+            <groupId>decision.gettingStarted</groupId>
+            <artifactId>data</artifactId>
+            <version>LATEST-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>com.ibm.decision</groupId>
             <artifactId>engine-compact-runtime</artifactId>
